@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Connectivity Overload
+title: Stay The Course
 email: kuohsianglu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Not-So-Secret Diary
+  Programming
+  Connectivity
   Iot Addict
-  The K Word
   Just Do It
 twitter_username: username
 github_username: username
