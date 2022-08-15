@@ -4,6 +4,7 @@ date: 2022-08-15T22:24:30-04:00
 categories:
   - blog
 tags:
+  - update
   - Secure Boot
 ---
 
