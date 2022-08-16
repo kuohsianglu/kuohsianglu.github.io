@@ -2,9 +2,10 @@
 title: "Raspberry Pi Secure Boot Enablement"
 date: 2022-08-15
 categories:
-  - blog
+  - Technical
 tags:
   - Secure Boot
+  - RaspberryPi
 ---
 
 這篇主要是記錄RPi CM4上，如何開啟secure boot的過程。目前找得到的資料中，只有Compute Module系列可以有機會啟用secure
