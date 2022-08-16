@@ -117,9 +117,11 @@ EEPROM set WP 1
 
 ## Secure Boot增加額外的開機時間
 量測開機時間的區間是從Power On到看到U-Boot的這段期間，`boot.img`的驗証是在這段時間做的。
+
 |              | Normal Boot | Secure Boot |
 |--------------|-------------|-------------|
 | Boot Time(s) | 5           | 15          |
+
 開啟secure boot後，總共會對整體開機時間增加了10秒。
 
 ## CM4 Booting Logs
